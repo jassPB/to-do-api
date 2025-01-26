@@ -29,12 +29,12 @@ This is a To-Do API writes in Python using the flask framework
    ```bash
    pip3 install -r requirements.txt
    ```    
-   If not works try chance `pip3` for `pip`
+   If not works try change `pip3` for `pip`
 3. Run the following command in your terminal for start the server
     ```bash
     python3 src/app.py
     ```    
-    If not works try chance `python3` for `python`
+    If not works try change `python3` for `python`
 4. In your browser go to [localhost:4000](http://localhost:4000/tasks)
 
 ### How contribute?
